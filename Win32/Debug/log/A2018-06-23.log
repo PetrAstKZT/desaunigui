@@ -1,0 +1,129 @@
+DesaUnigui.exe: 000005C0: 20.13.46 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 000005C0: 20.13.46 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 000005C0: 20.13.46 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 000005C0: 20.13.46 [TUniServerModule]:Cache Folder Erased. <1> Files deleted.
+DesaUnigui.exe: 000005C0: 20.13.46 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 000005C0: 20.13.46 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 00000AF0: 20.13.51 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 000005C0: 20.14.29 [TUniServerModule]:Shutting Down Server.
+DesaUnigui.exe: 00000A3C: 20.14.29 [Indy]:EIdNotConnected : Not Connected : Addr: $006F5326
+DesaUnigui.exe: 000040BC: 20.14.29 [Indy]:EIdNotConnected : Not Connected : Addr: $006F5326
+DesaUnigui.exe: 00003908: 20.14.29 [Indy]:EIdNotConnected : Not Connected : Addr: $006F5326
+DesaUnigui.exe: 00000AF0: 20.14.29 [Indy]:EIdNotConnected : Not Connected : Addr: $006F5326
+DesaUnigui.exe: 00002340: 20.14.29 [Indy]:EIdNotConnected : Not Connected : Addr: $006F5326
+DesaUnigui.exe: 000005C0: 20.14.30 [TUniServerModule]:HTTP Server Stopped.
+DesaUnigui.exe: 000005C0: 20.14.30 [TUniGUISessionManager]:Terminating Session manager.
+DesaUnigui.exe: 000005C0: 20.14.30 [TUniGUISessionManager]:Stopping Cache Eraser...
+DesaUnigui.exe: 000005C0: 20.14.30 [TUniGUISessionManager]:Cache Eraser Stopped.
+DesaUnigui.exe: 000005C0: 20.14.30 [TUniGUISessionManager]:Destroying Worker Threads.
+DesaUnigui.exe: 000005C0: 20.14.30 [TUniGUISessionManager]:Session manager terminated.
+DesaUnigui.exe: 000005C0: 20.14.30 [TUniServerModule]:Server Shutdown Completed.
+DesaUnigui.exe: 000005C0: 20.14.30 []:<-------------------------------------------------------------->
+DesaUnigui.exe: 000005C0: 20.14.30 [Terminated]:Exit Code: 0
+DesaUnigui.exe: 000027E0: 20.15.10 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 000027E0: 20.15.10 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 000027E0: 20.15.10 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 000027E0: 20.15.10 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+DesaUnigui.exe: 000027E0: 20.15.10 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 000027E0: 20.15.10 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 000029C4: 20.15.11 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 00001048: 20.17.42 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00001048: 20.17.42 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00001048: 20.17.42 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00001048: 20.17.42 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+DesaUnigui.exe: 00001048: 20.17.42 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00001048: 20.17.42 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 0000207C: 20.17.43 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 000031B8: 20.18.11 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 000031B8: 20.18.11 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 000031B8: 20.18.11 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 000031B8: 20.18.11 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+DesaUnigui.exe: 000031B8: 20.18.12 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 000031B8: 20.18.12 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 00002C88: 20.18.12 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 00000C80: 20.31.24 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00000C80: 20.31.24 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00000C80: 20.31.24 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00000C80: 20.31.24 [TUniServerModule]:Cache Folder Erased. <1> Files deleted.
+DesaUnigui.exe: 00000C80: 20.31.24 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00000C80: 20.31.24 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 00003E00: 20.31.25 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 00003E00: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: return new Notification(options.title, options);.
+DesaUnigui.exe: 00001274: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: return default_options.icon = icon_url;.
+DesaUnigui.exe: 00001C50: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: if (Notification.permission ===.
+DesaUnigui.exe: 00002D70: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: return Notification.requestPermission();.
+DesaUnigui.exe: 00003E00: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: return $.extend({.
+DesaUnigui.exe: 00001274: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: if (arguments.length < 1) {.
+DesaUnigui.exe: 00000334: 20.31.25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3306
+DesaUnigui.exe: 00001A1C: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: return setTimeout(notification.close.bind(notification), options.closeTime);.
+DesaUnigui.exe: 00001C50: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: default_options.body = body;.
+DesaUnigui.exe: 00002D70: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: options = $.extend(default_options, arguments_options);.
+DesaUnigui.exe: 00001C50: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: notify_methods.close_notification(notification, options);.
+DesaUnigui.exe: 00000334: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: notification.addEventListener('click', function() {.
+DesaUnigui.exe: 00002D70: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: notification.addEventListener('show', function() {.
+DesaUnigui.exe: 00001A1C: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: notify_methods.permission_request();.
+DesaUnigui.exe: 00003E00: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: if (notify_methods.isSupported()) {.
+DesaUnigui.exe: 00001274: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: notification = notify_methods.create_notification(options);.
+DesaUnigui.exe: 00001C50: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: notification.addEventListener('close', function() {.
+DesaUnigui.exe: 00000334: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: notification.addEventListener('error', function() {.
+DesaUnigui.exe: 00002D70: 20.31.25 [HandleFileRequest[127.0.0.1]]:Access denied: }).call(this);.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: return new Notification(options.title, options);.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: return setTimeout(notification.close.bind(notification), options.closeTime);.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: return default_options.icon = icon_url;.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: if (Notification.permission ===.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: return Notification.requestPermission();.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: return $.extend({.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: if (arguments.length < 1) {.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: default_options.body = body;.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: options = $.extend(default_options, arguments_options);.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: if (notify_methods.isSupported()) {.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: notify_methods.permission_request();.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: notification = notify_methods.create_notification(options);.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: notify_methods.close_notification(notification, options);.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: notification.addEventListener('click', function() {.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: notification.addEventListener('show', function() {.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: notification.addEventListener('close', function() {.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: notification.addEventListener('error', function() {.
+DesaUnigui.exe: 00000334: 20.31.26 [HandleFileRequest[127.0.0.1]]:Access denied: }).call(this);.
+DesaUnigui.exe: 00002814: 20.39.43 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00002814: 20.39.43 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00002814: 20.39.43 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00002814: 20.39.43 [TUniServerModule]:Cache Folder Erased. <1> Files deleted.
+DesaUnigui.exe: 00002814: 20.39.43 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00002814: 20.39.43 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 00000A40: 20.39.44 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 00000FF4: 20.41.55 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00000FF4: 20.41.55 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00000FF4: 20.41.55 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00000FF4: 20.41.55 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+DesaUnigui.exe: 00000FF4: 20.41.55 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00000FF4: 20.41.55 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 000000E0: 20.41.56 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 00001AD4: 20.43.14 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00001AD4: 20.43.14 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00001AD4: 20.43.14 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00001AD4: 20.43.14 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+DesaUnigui.exe: 00001AD4: 20.43.14 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00001AD4: 20.43.14 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 00003534: 20.43.15 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 00000334: 20.45.28 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00000334: 20.45.28 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00000334: 20.45.28 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00000334: 20.45.28 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+DesaUnigui.exe: 00000334: 20.45.28 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00000334: 20.45.28 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 000011B0: 20.45.29 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 000010B0: 20.47.40 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 000010B0: 20.47.40 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 000010B0: 20.47.40 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 000010B0: 20.47.40 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+DesaUnigui.exe: 000010B0: 20.47.40 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 000010B0: 20.47.40 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 00001A3C: 20.47.41 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 000043D4: 20.47.54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3306
+DesaUnigui.exe: 00001A3C: 20.47.54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3306
+DesaUnigui.exe: 000043D4: 20.47.54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3306
+DesaUnigui.exe: 0000080C: 20.47.54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3306
+DesaUnigui.exe: 00003C18: 20.47.54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3306
+DesaUnigui.exe: 00002BAC: 20.47.54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3306
+DesaUnigui.exe: 00003068: 20.47.54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3306

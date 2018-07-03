@@ -1,0 +1,83 @@
+DesaUnigui.exe: 00000470: 11.40.16 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00000470: 11.40.16 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00000470: 11.40.16 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00000470: 11.40.16 [TUniServerModule]:Cache Folder Erased. <1> Files deleted.
+DesaUnigui.exe: 00000470: 11.40.16 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00000470: 11.40.16 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006EBCC5
+DesaUnigui.exe: 00000470: 11.40.21 [TUniServerModule]:Shutting Down Server.
+DesaUnigui.exe: 00000470: 11.40.22 [TUniServerModule]:HTTP Server Stopped.
+DesaUnigui.exe: 00000470: 11.40.22 [TUniGUISessionManager]:Terminating Session manager.
+DesaUnigui.exe: 00000470: 11.40.22 [TUniGUISessionManager]:Stopping Cache Eraser...
+DesaUnigui.exe: 00000470: 11.40.22 [TUniGUISessionManager]:Cache Eraser Stopped.
+DesaUnigui.exe: 00000470: 11.40.22 [TUniGUISessionManager]:Destroying Worker Threads.
+DesaUnigui.exe: 00000470: 11.40.22 [TUniGUISessionManager]:Session manager terminated.
+DesaUnigui.exe: 00000470: 11.40.22 [TUniServerModule]:Server Shutdown Completed.
+DesaUnigui.exe: 00000470: 11.40.22 []:<-------------------------------------------------------------->
+DesaUnigui.exe: 00000470: 11.40.22 [Terminated]:Exit Code: 0
+DesaUnigui.exe: 000004EC: 11.43.29 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 000004EC: 11.43.29 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 000004EC: 11.43.29 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 000004EC: 11.43.29 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+DesaUnigui.exe: 000004EC: 11.43.29 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 000004EC: 11.43.29 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 00000BC0: 11.43.33 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 000004EC: 11.45.36 [TUniServerModule]:Shutting Down Server.
+DesaUnigui.exe: 00001B88: 11.45.36 [Indy]:EIdNotConnected : Not Connected : Addr: $006F53B2
+DesaUnigui.exe: 000004EC: 11.45.37 [TUniServerModule]:HTTP Server Stopped.
+DesaUnigui.exe: 000004EC: 11.45.37 [TUniGUISessionManager]:Terminating Session manager.
+DesaUnigui.exe: 000004EC: 11.45.37 [TUniGUISessionManager]:Stopping Cache Eraser...
+DesaUnigui.exe: 000004EC: 11.45.37 [TUniGUISessionManager]:Cache Eraser Stopped.
+DesaUnigui.exe: 000004EC: 11.45.37 [TUniGUISessionManager]:Destroying Worker Threads.
+DesaUnigui.exe: 000004EC: 11.45.37 [TUniGUISessionManager]:Session manager terminated.
+DesaUnigui.exe: 000004EC: 11.45.37 [TUniServerModule]:Server Shutdown Completed.
+DesaUnigui.exe: 000004EC: 11.45.37 []:<-------------------------------------------------------------->
+DesaUnigui.exe: 000004EC: 11.45.37 [Terminated]:Exit Code: 0
+DesaUnigui.exe: 00003B74: 11.45.56 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00003B74: 11.45.56 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00003B74: 11.45.56 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00003B74: 11.45.56 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+DesaUnigui.exe: 00003B74: 11.45.56 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00003B74: 11.45.56 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 000033F8: 11.45.57 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 00003900: 11.47.16 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00003900: 11.47.16 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00003900: 11.47.16 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00003900: 11.47.16 [TUniServerModule]:Cache Folder Erased. <3> Files deleted.
+DesaUnigui.exe: 00003900: 11.47.16 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00003900: 11.47.16 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 0000233C: 11.47.17 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 000038A8: 11.50.50 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 000038A8: 11.50.50 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 000038A8: 11.50.50 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 000038A8: 11.50.50 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+DesaUnigui.exe: 000038A8: 11.50.51 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 000038A8: 11.50.51 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 00001350: 11.50.52 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 00003E30: 11.50.56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3392
+DesaUnigui.exe: 00001C3C: 12.02.31 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00001C3C: 12.02.31 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00001C3C: 12.02.31 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00001C3C: 12.02.31 [TUniServerModule]:Cache Folder Erased. <4> Files deleted.
+DesaUnigui.exe: 00001C3C: 12.02.32 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00001C3C: 12.02.32 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 0000281C: 12.02.33 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 00002AC8: 12.03.35 []:>--------------------------------------------------------------<
+DesaUnigui.exe: 00002AC8: 12.03.35 [TUniServerModule]:Server First Init.
+DesaUnigui.exe: 00002AC8: 12.03.35 [TUniServerModule]:Erasing Cache Folder...
+DesaUnigui.exe: 00002AC8: 12.03.35 [TUniServerModule]:Cache Folder Erased. <4> Files deleted.
+DesaUnigui.exe: 00002AC8: 12.03.35 [TUniServerModule]:Starting HTTP Server...
+DesaUnigui.exe: 00002AC8: 12.03.35 [TUniServerModule]:HTTP Server Started. Port: 8077
+DesaUnigui.exe: 00001008: 12.03.36 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.0.0.1397\css\uni-xtheme-access.css
+DesaUnigui.exe: 00003C0C: 12.04.29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3B4A
+DesaUnigui.exe: 00003C0C: 12.04.30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3B4A
+DesaUnigui.exe: 00003C0C: 12.04.31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007D3B4A
+DesaUnigui.exe: 00002AC8: 12.09.35 [TUniServerModule]:Shutting Down Server.
+DesaUnigui.exe: 00002AC8: 12.09.35 [TUniServerModule]:HTTP Server Stopped.
+DesaUnigui.exe: 00002AC8: 12.09.35 [TUniGUISessionManager]:Terminating Session manager.
+DesaUnigui.exe: 00002AC8: 12.09.35 [TUniGUISessionManager]:Stopping Cache Eraser...
+DesaUnigui.exe: 00002AC8: 12.09.35 [TUniGUISessionManager]:Cache Eraser Stopped.
+DesaUnigui.exe: 00002AC8: 12.09.35 [TUniGUISessionManager]:Destroying Worker Threads.
+DesaUnigui.exe: 00002AC8: 12.09.35 [TUniGUISessionManager]:Session manager terminated.
+DesaUnigui.exe: 00002AC8: 12.09.35 [TUniServerModule]:Server Shutdown Completed.
+DesaUnigui.exe: 00002AC8: 12.09.35 []:<-------------------------------------------------------------->
+DesaUnigui.exe: 00002AC8: 12.09.35 [Terminated]:Exit Code: 0
